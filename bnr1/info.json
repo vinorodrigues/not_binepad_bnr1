@@ -1,0 +1,12 @@
+{
+    "keyboard_name": "BNR1",
+    "maintainer": "Vino Rodrigues",
+    "url": "https://www.binepad.com",
+    "layouts": {
+        "LAYOUT_all": {
+            "layout": [
+                { "h": 3.0, "label": "0,0", "matrix": [0, 0], "w": 3.0, "x": 0.0, "y": 0.0 }
+            ]
+        }
+    }
+}
